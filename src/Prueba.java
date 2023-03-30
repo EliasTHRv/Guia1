@@ -17,7 +17,7 @@ public class Prueba {
          Scanner leerC = new Scanner(System.in);
          cad1 = leerC.nextLine();
          cadFin=cad1.substring(4);
-         
+         var num3 = 0;
          System.out.println(cadFin);
      }
 }
