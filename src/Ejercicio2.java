@@ -13,7 +13,7 @@ public class Ejercicio2 {
     public static void main(String[] args) {
         String fraSe1;
         Scanner leerF = new Scanner(System.in);
-        System.out.println("Ingresar una frase: ");
+        //System.out.println("Ingresar una frase: ");
 
         fraSe1 = leerF.nextLine();
         if (fraSe1.equals("eureka")) {
